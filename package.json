@@ -1,0 +1,19 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "This bot was made by Random for both his server and to global functions such as \"all servers usage\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Random von Habsburg.",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^1.4.4",
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "quick.db": "^3.0.3",
+    "urban": "^0.3.2",
+    "weather": "^0.1.0"
+  }
+}
